@@ -34,5 +34,5 @@ The dataset used in this project is the SMS Spam Collection dataset. It can be d
 ## Performance
 
 ### Logistic Regression:
-- **Accuracy**: 95.25%
+- **Accuracy**: 98%
 - **Confusion Matrix**:
